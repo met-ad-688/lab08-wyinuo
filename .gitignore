@@ -19,7 +19,7 @@ lib64/
 parts/
 sdist/
 var/
-wheels/
+wheels/s
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -169,4 +169,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+lightcast_job_postings.csv
 lightcast_job_postings.csv
